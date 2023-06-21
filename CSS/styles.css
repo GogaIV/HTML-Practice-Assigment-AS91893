@@ -1,0 +1,31 @@
+.headingdiv {
+  width: 100vw;
+  margin-top: 0px;
+  margin: bottom 0px;
+  height: 100px;
+  background-color: rgb(128, 165, 235);
+  left: 0;
+  right: 0;
+  top: 0;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+}
+
+.headinglogo {
+  margin-left: 20px;
+  max-width: 200px;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.headingmenu {
+  font-size: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 900px;
+  margin-top: 30px;
+}
+
+.bungeejumpingimage {
+}
