@@ -21,7 +21,6 @@
 .intro-box {
   background-color: #bcf200;
   min-height: 400px;
-  
 }
 
 .headingmenu ul {
@@ -112,7 +111,7 @@
   border: 2px solid #003b63;
 }
 
-/* Page 2 */
+/* Page 2 Gallery */
 
 .page2header {
   display: flex;
@@ -188,5 +187,37 @@
   margin-top: 100px;
   justify-content: center;
   display: flex;
-  
 }
+
+.bridgeimage img {
+  width: 100vw;
+  margin-right: 0px;
+  position: relative;
+}
+
+.bannerbridge {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-top: 450px;
+  margin-bottom: 20px;
+}
+
+.bannerbridge h1 {
+  border: solid;
+  border-color: #003b63;
+  background-color: #003b63;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  border-width: 20px;
+  border-radius: 20px;
+}
+
+.pricingbox {
+  border: outset solid;
+  display: flex;
+  justify-content: center;
+}
+
+/* .heightbridge{} */
